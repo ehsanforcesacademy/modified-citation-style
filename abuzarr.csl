@@ -104,7 +104,7 @@
   </citation>
   <bibliography second-field-align="flush" entry-spacing="0">
     <layout suffix=".">
-      <text variable="citation-number" prefix="[" suffix="]\t"/>
+      <text variable="citation-number" prefix="[" suffix="]&#9"/>
       <text macro="author" suffix=". "/>
       <choose>
         <if type="article-journal" match="any">
